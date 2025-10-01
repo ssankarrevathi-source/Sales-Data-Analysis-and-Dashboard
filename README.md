@@ -1,2 +1,3 @@
-# Sales-Data-Analysis-and-Dashboard
-This project showcases sales data analysis using Excel and Power BI, with interactive dashboards highlighting KPIs, trends, and product insights. It helps businesses track performance and make data-driven decisions.
+# Sales Data Analysis (Interactive  Dashboard creation using Power BI)
+## Project Objective
+This project analyzes sales data using Power BI. The dashboard shows overall sales, regional performance, category contribution, monthly trends, and top products to support business decisions.
