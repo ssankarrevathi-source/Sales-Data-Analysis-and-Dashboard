@@ -3,7 +3,7 @@
 This project analyzes sales data using Power BI. The dashboard shows overall sales, regional performance, category contribution, monthly trends, and top products to support business decisions.
 
 ## Dataset
--<a href="https://github.com/ssankarrevathi-source/Sales-Data-Analysis-and-Dashboard/blob/main/sample_sales_data.xlsx">Dataset</a>
+- <a href="https://github.com/ssankarrevathi-source/Sales-Data-Analysis-and-Dashboard/blob/main/sample_sales_data.xlsx">Dataset</a>
 
 ## Process
 #### Data Preparation
@@ -11,7 +11,7 @@ This project analyzes sales data using Power BI. The dashboard shows overall sal
 #### Exploration 
 – Used PivotTables and charts to analyze sales by region, category, and month.
 #### KPI Identification  
--Defined key metrics like Total Sales, Category-wise Sales, and Monthly Trends.
+- Defined key metrics like Total Sales, Category-wise Sales, and Monthly Trends.
 #### Dashboard Development 
 – Built interactive dashboards in Power BI with slicers, drill-downs, and visuals for storytelling.
 #### Insights & Reporting 
