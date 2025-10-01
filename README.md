@@ -11,7 +11,7 @@ This project analyzes sales data using Power BI. The dashboard shows overall sal
 #### Exploration 
 –  Used PivotTables and charts to analyze sales by region, category, and month.
 #### KPI Identification  
--  Defined key metrics like Total Sales, Category-wise Sales, and Monthly Trends.
+-Defined key metrics like Total Sales, Category-wise Sales, and Monthly Trends.
 #### Dashboard Development 
 –  Built interactive dashboards in Power BI with slicers, drill-downs, and visuals for storytelling.
 #### Insights & Reporting 
