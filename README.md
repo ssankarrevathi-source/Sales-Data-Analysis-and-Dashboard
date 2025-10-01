@@ -19,3 +19,16 @@ This project analyzes sales data using Power BI. The dashboard shows overall sal
 
 ## Dashboard
 ![Screenshot(495)](https://github.com/ssankarrevathi-source/Sales-Data-Analysis-and-Dashboard/blob/main/Sales%20Data%20Visual%20Screenshot%20-%20Copy.jpg)
+
+# Bookmarks (Clear Button)
+- Purpose: To reset the dashboard after applying multiple filters and slicers.
+
+- A Clear button is created using bookmark functionality.
+
+- When clicked, all slicers & filters reset → dashboard returns to default view.
+
+- This saves time for users, instead of manually deselecting filters.
+
+# Conclusion
+This project provided a complete end-to-end view of sales analysis using Excel and Power BI. KPIs, trends, and breakdowns were visualized through interactive dashboards. Features like slicers and a clear button enhanced user experience. Overall, the analysis delivers actionable insights to support better business decisions.
+
